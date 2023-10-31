@@ -58,6 +58,7 @@ nav {
   div.top-img img{
     height: 250px;
     width: 100%;
+    border: none;
   }
 
   /* section {
@@ -125,6 +126,7 @@ nav {
     flex-wrap: wrap;
     /* padding-left: 300px; */
     justify-content: center;
+    
   }
 
   img {
@@ -215,7 +217,7 @@ nav {
   
 
   @media screen and (max-width: 768px) {
-    
+
   }
 
   @media screen and (max-width: 576px) {
